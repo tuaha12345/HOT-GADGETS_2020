@@ -1,0 +1,97 @@
+
+
+
+
+
+
+.button{
+	border: none;
+	background-color: black;
+	color: white;
+	padding: 7px 15px;
+	border-radius: 9px;
+}
+
+
+
+.carousel-background{
+
+
+	  background-image: url('bg-2.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left bottom;
+}
+
+#cc{
+	background-color:#f7d92d;
+
+}
+
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #f7d92d;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #f7d92d;
+}
+
+.SeeAll{
+	padding-top: 5px;
+	color: #FFC81D;
+}
+
+.Phone{
+	padding:30px 20px;
+	padding-top:50px;
+}
+.card p{
+	color:dimgray;
+}
+.card{
+	border:none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgray;
+}
+
+#phone,#laptop,#categories{
+	margin-top:13%;
+	margin-bottom:20px;
+}
+
+.cat{
+		border:none;
+	border-radius: 5px 0px 20px 0px;
+	box-shadow: 5px 5px 10px lightgray;
+	text-align: center;
+	margin-top:15%;
+
+}
+.cat img{
+	 padding:20px 10px;
+}
+
+.cat1{
+		border:none;
+		border-radius: 0px 5px 0px 20px;
+	box-shadow: 5px 5px 10px lightgray;
+	text-align: center;
+	padding:20% 10px;
+	margin:0px 80px;
+	margin-left:15%;
+
+}
